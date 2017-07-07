@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -63,6 +64,9 @@
               </label>
             </div>
           </div>
+          <div>
+            <button type="submit" class="btn btn-primary">Submit!</button>
+          </div>
         </form>
       </div>
       <div class="col-sm-8">
@@ -74,3 +78,4 @@
 </body>
 
 </html>
+
